@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poetsen+One&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(rgb(149, 212, 248), white);
+    height: 100vh;
+    font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+nav {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    flex-wrap: nowrap;
+    height: 23vh;
+}
+
+#Inicio:hover, #Acerca-de:hover, #Servicios:hover, #Contacto:hover{
+    background-color: rgba(26, 104, 146, 0.658);
+}
+
+nav a{
+    border: 2px solid rgb(83, 154, 163);
+    background-color: rgba(12, 50, 71, 0.658);
+    padding: 10px;
+    width: 25%;
+    height: 15vh    ;
+    align-content: center;
+    justify-content: center;
+    margin: 1.5vw;
+    text-decoration: none;
+    color: rgb(14, 21, 22);
+}
+
+@media (max-width: 600px) {
+    nav{
+        font-size: 3vw;
+    }    
+}
+
+
