@@ -39,5 +39,10 @@
 Uso
 Para ver el contenido del proyecto, abre el archivo index.html en tu navegador web. Desde allí, puedes navegar a la página de artículos y explorar las diferentes historias sobre Flash.
 
-# 📱 Contacto
-  Para cualquier pregunta o comentario sobre el proyecto, por favor contacta con [Elidallana Cristancho] a través de [cristanchodayana062017@gmail.com].
+____
+### 📬 Contacto
+- 📧 Correo electrónico: cristanchodayana062017@gmail.com
+
+- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
+
+¡Gracias por ser parte de esta aventura! 🚀✨
